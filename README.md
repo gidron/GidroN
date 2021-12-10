@@ -10,12 +10,12 @@
 
 ### Connect with me: 
 
--  <img src="https://img.icons8.com/ios-filled/24/000000/vk-com.png"/>➜ <a href="https://vk.com/gidron_off">Anton Illenberger</a>
-- <img src="https://img.icons8.com/ios-filled/24/000000/telegram-app.png"/> ➜ <a href="https://t.me/GidroNn">GidroN</a>
+-  <img src="https://img.icons8.com/color/24/000000/vk-circled.png"/>➜ <a href="https://vk.com/gidron_off">Anton Illenberger</a>
+- <img src="https://img.icons8.com/color/24/000000/telegram-app--v2.png"/> ➜ <a href="https://t.me/GidroNn">GidroN</a>
 - <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="24" height="24"
-viewBox="0 0 50 50"
-style=" fill:#000000;">    <path d="M41,4H9C6.24,4,4,6.24,4,9v32c0,2.76,2.24,5,5,5h32c2.76,0,5-2.24,5-5V9C46,6.24,43.76,4,41,4z M37,19h-2c-2.14,0-3,0.5-3,2 v3h5l-1,5h-4v15h-5V29h-4v-5h4v-3c0-4,2-7,6-7c2.9,0,4,1,4,1V19z"></path></svg> ➜ <a href="https://www.facebook.com/anton.illenberger.1">Anton Illenberger</a>
+width="24" height=""
+viewBox="0 0 48 48"
+style=" fill:#000000;"><path fill="#039be5" d="M24 5A19 19 0 1 0 24 43A19 19 0 1 0 24 5Z"></path><path fill="#fff" d="M26.572,29.036h4.917l0.772-4.995h-5.69v-2.73c0-2.075,0.678-3.915,2.619-3.915h3.119v-4.359c-0.548-0.074-1.707-0.236-3.897-0.236c-4.573,0-7.254,2.415-7.254,7.917v3.323h-4.701v4.995h4.701v13.729C22.089,42.905,23.032,43,24,43c0.875,0,1.729-0.08,2.572-0.194V29.036z"></path></svg>➜ <a href="https://www.facebook.com/anton.illenberger.1">Anton Illenberger</a>
 
 ### In Progress to learn:
 
@@ -23,4 +23,3 @@ style=" fill:#000000;">    <path d="M41,4H9C6.24,4,4,6.24,4,9v32c0,2.76,2.24,5,5
  - [ ] JavaScript
  - [ ] Git/Github
  - [ ] C#
-
